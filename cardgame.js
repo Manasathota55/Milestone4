@@ -60,7 +60,7 @@
 
         function shuffle()
         {
-            // for 1000 turns
+            //We can do 1000 turns
             // switch the values of two random cards
             for (var i = 0; i < 1000; i++)
             {
